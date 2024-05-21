@@ -1,0 +1,11 @@
+# BELAJAR MEMBUAT APLIKASI BACKEND MENGGUNAKAN NODEJS DAN EXPRESS
+
+## Author
+
+Nama    :
+
+Nicko Berli Pradio Utama
+
+NIM     : 
+
+2100016097
